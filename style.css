@@ -1,0 +1,17 @@
+body {
+    font-size: 22pt;
+     background-image: url("https://i.ibb.co/0nW97VF/pngtree-seamless-repeat-pattern-with-flowers-on-blue-background-picture-image-1754624.png");
+     background-attachment:fixed;
+     background-position: content;
+  }
+  p{color: #FFFFFF}
+  h2{color: aqua}
+  h1{color: chartreuse}
+  .type1{
+    display: block;
+    margin: 0% auto;
+  }
+  ul{color: #FFFFFF}
+ .edi img{
+  float: right;
+ }
